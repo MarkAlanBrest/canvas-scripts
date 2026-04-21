@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         AIgrader — Claude Edition
+// @name         AIgrader
 // @namespace    http://tampermonkey.net/
 // @version      5.2
 // @description  Grade Canvas submissions using Claude AI directly in SpeedGrader — auto-detects course, pulls assignments from Canvas API
